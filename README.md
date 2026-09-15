@@ -1,11 +1,16 @@
 #### team_projects_curricula
 
 #### Project Related Resource Links:
--https://github.com/lineality/project_product_and_production_links 
+- https://github.com/lineality/project_product_and_production_links 
 
 
 # Team Projects Curricula Areas
-[2026.08.21]
+2026.08.21st - 9.15th
+
+The goal of this 'Teams,' 'Projects/Products,' and 'Team-Projects' curriculum is to bring together existing interdisciplinary STEM materials and practices into a curriculum, flexible for various age levels, that can be universally recognized and participated in through a macro-context of 'Teams and Projects.'
+
+Below are example optional elements and resources.
+
 
 ## Hygiene, STEM, Administration, Coordination, Process: Applied Interdisciplinary STEM
 Somewhat represented in the common 'pure vs. applied' split in STEM, and STEM often being 'compartmentalized' into 'silos,' education and implementation of STEM is often held back by 
@@ -22,9 +27,6 @@ and an invalid implicit concession that STEM does not apply in areas such as:
 - Education and Learning
 - Teams and Sportsmanship
 
-The aim here is to bring together existing interdisciplinary STEM materials and practices into a curriculum, flexible for various age levels, that can be universally recognized and participated in through a macro-context of 'Teams and Projects.'
-
-Below are example optional elements and resources.
 
 
 #### Can Do (regarding team/project skills):
