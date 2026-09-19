@@ -13,10 +13,7 @@ Below are example optional elements and resources.
 
 
 ## Hygiene, STEM, Administration, Coordination, Process: Applied Interdisciplinary STEM
-Somewhat represented in the common 'pure vs. applied' split in STEM, and STEM often being 'compartmentalized' into 'silos,' education and implementation of STEM is often held back by 
-- a lack of interdisciplinary connection
-- a lack of overall articulation of and advocacy for general overall STEM, 
-and an invalid implicit concession that STEM does not apply in areas such as:
+Somewhat represented in the common 'pure vs. applied' split in STEM, and STEM often being 'compartmentalized' into 'silos,' education and implementation of STEM is often held back by a lack of interdisciplinary connection, a lack of overall articulation of and advocacy for general overall STEM, and an invalid implicit concession that STEM does not apply in areas such as:
 - Valuation and values
 - Hygiene, health, defense, and maintainability
 - Boy-Scout Values
@@ -26,7 +23,6 @@ and an invalid implicit concession that STEM does not apply in areas such as:
 - Project and product management
 - Education and Learning
 - Teams and Sportsmanship
-
 
 
 #### Can Do (regarding team/project skills):
@@ -236,6 +232,13 @@ categories of types of systems: who regions of problem spaces are conducive to w
 
 
 ## Other Resources & Areas:
+
+
+#### Advanced / Real-World Scheduling
+(Internal Locus of Control https://www.economist.com/business/2026/08/27/the-quality-you-should-most-wish-for-your-children )
+- Setting Checkpoints/Reviews/Deadlines Yourself
+- Open-ended Schedule Management: seeking feedback, setting & adjusting boundaries, 
+
 
 #### Production Datascience Architectures: 
 - MER: Learning in Production: Languages & Computability (pending)
