@@ -91,13 +91,13 @@ https://www.oreilly.com/library/view/designing-data-intensive-applications/97814
 ### Production Data-Science
 (Github Links for Production Data-Science Areas & Skills)
 
-Production DS Workflow:
+Production Data-Science Workflow:
 - https://github.com/lineality/production_data_science_workflow  
 
-Production DS Design-Areas:
+Production Data-Science Design-Areas:
 - https://github.com/lineality/production_datascience_design_areas  
 
-Production DS Study & Project Areas:
+Production Data-Science Study & Project Areas:
 - https://github.com/lineality/production_datascience_study_projects_areas 
 
 Case Study: Comparing Deterministic Rust vs. Python LLM:
