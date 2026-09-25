@@ -7,37 +7,41 @@
 # Team Projects Curricula Areas
 2026.08.21st - 9.15th
 
-The goal of this 'Teams,' 'Projects/Products,' and 'Team-Projects' curriculum is to bring together existing interdisciplinary STEM materials and practices into a curriculum, flexible for various age levels, that can be universally recognized and participated in through a macro-context of 'Teams and Projects.'
+The goal of this 'Teams,' 'Projects/Products,' and 'Team-Projects' curriculum is to bring together existing interdisciplinary STEM materials and practices into a curriculum, flexible for various age levels and disciplines, that is broadly recognizable and can be participated in through a (macro) high-level-context of 'Teams & Projects.'
 
-Below are example optional elements and resources.
+Below is an outline of elements and resources.
 
 
 ## Hygiene, STEM, Administration, Coordination, Process: Applied Interdisciplinary STEM
-Somewhat represented in the common 'pure vs. applied' split in STEM, and STEM often being 'compartmentalized' into 'silos,' education and implementation of STEM is often held back by a lack of interdisciplinary connection, a lack of overall articulation of and advocacy for general overall STEM, and an invalid implicit concession that STEM does not apply in areas such as:
+
+STEM is often 'compartmentalized' into 'silos,' for example the common 'pure vs. applied' split. Education and implementation of STEM is often held back by a lack of interdisciplinary connection, a lack of overall articulation of, and advocacy for, a general overall concept of STEM, and invalid concessions that STEM does not apply in areas such as:
+- Boy-Scout Values (for example in a team-projects productivity context)
+- Teams and Sportsmanship
 - Valuation and values
-- Hygiene, health, defense, and maintainability
-- Boy-Scout Values
 - Policy and process
-- Decision and coordination
 - Administration, management and rule definition
 - Project and product management
+- Decisions and coordination
 - Education and Learning
-- Teams and Sportsmanship
+- Hygiene, health, defense, and maintainability
+
+An explicit scope of team and project productivity may better allow these application-areas for STEM to be included in target ranges of skills, abilities, measures, and outcomes. 
+
+While it might sound overly obvious to some, and overly incongruent to others, this Teams & Projects curriculum will include scope and problem-spaces covering team-groups, team-communication, stateful-problems, and state-communication (or externalization and communication of project-object-state).
 
 
-#### Can Do (regarding team/project skills):
-- this is possible
-- this is inclusive
-- this is not automatic (requires work)
-- this is not instantaneous (required times)
-- there is a team-group, team-communication, stateful-problem, state-communication problem-space here
-- 'process' (often in a context of unknowns) is part of this
-(STEM is not always framed with or including communication and coordination, but communication and coordination are explicit here. Similar with healthfood-junkfood short-term longer-term equilibria disjunctions, probably not commonly part of STEM discussions but explicit here)
-+3
-- nuance 
-- case-by-case 
-- context-dependence
 
+
+#### High Level Problem-Space Properties:
+Correcting misconceptions and orientation-issues regarding STEM, teams, and projects:
+- Applies broadly
+- Can be done
+- Non-Automatic: Does not happen automatically
+- Iterative & Irregular Process: Does not happen quickly, singly, uniformly, or with finality
+- Context-Dependence
+
+
+# (?) Existing Materials Links
 
 #### Project-Team Basics: 
 - 'T is for Task' / Uma: Projects & Communication, From Very Simple to Less-Simple: 
@@ -84,7 +88,7 @@ https://www.oreilly.com/library/view/designing-data-intensive-applications/97814
 - Bill Hall & Odin (Language)
 
 
-### Production Data Science
+### Production Data-Science
 (Github Links for Production Data-Science Areas & Skills)
 
 Production DS Workflow:
@@ -101,7 +105,8 @@ Case Study: Comparing Deterministic Rust vs. Python LLM:
 
 
 
-### Starting and overall curricular questions:
+## Starting and Overall Curricular-Questions:
+
 1. The health-food junk-food question:
 - Is there an understanding that there is a difference between often illusory bad processes and goals (junkfood) vs. often more future-maintainability oriented 'health-food' best practice? (or is there a paradigm of vague equivalence and automatic-self-correction in place?)
 - Are there active epidemiology type practices and policies to identify, prevent, treat, and cure harms related to 'junk-food' processes?
@@ -110,7 +115,7 @@ Case Study: Comparing Deterministic Rust vs. Python LLM:
 - Is there an understanding that there is a realm of dynamics between long-term and short-term priorities and processes?
 - Are there practices and policies in place to navigate short-term vs. long-term?
 
-3. Basal Distal:
+3. Basal-Distal:
 - Is there an understanding of there being a difference between basal and distal scope of actions and consequences?
 - Are there practices and policies in place to navigate basal vs.  distal?
 
@@ -128,20 +133,6 @@ Case Study: Comparing Deterministic Rust vs. Python LLM:
 
 
 
-
-# Learning-Materials & Topics:
-- 'Mini-Metro' and Scope-Scale (how scale changes problem-spaces)
-
-
-
-
-# Curriculum Notes
-- Explicitly including 'identification' as a layer of learning goals
-- Using a project-iteration that rewards learning from mistakes rather than a pedantic potemkin-village to hide error-feedback.
-- Cutups, communication (presentation, documentation) skills 
-
-
-
 ### Example process item: Loop
 - Identify (Identification phase)
 - Do
@@ -153,18 +144,25 @@ Case Study: Comparing Deterministic Rust vs. Python LLM:
 - Secondary / High School
 - Higher Education Levels / College University (most-reading)
 
-
 #### Entrepreneurship & Startups: Overall factors to be aware of
 - Duration to expect before profitability
 - Failure before success
 
-#### civics, Administration, and Organizations
+#### Civics, Administration, and Organizations
 - History
 - Economics and Rule of Law
 - Sanctions
 
 
-## Use of Projects
+# Learning-Materials & Topics:
+- 'Mini-Metro' and Scope-Scale (how scale changes problem-spaces)
+
+# Curriculum Notes
+- Explicitly including 'identification' as a layer of learning goals
+- Using a project-iteration that rewards learning from mistakes rather than a pedantic potemkin-village to hide error-feedback.
+- Cutups, communication (presentation, documentation) skills 
+
+## Use of Projects (Teaching Methodology)
 - see links for production-projects
 
 ### One-Hour Team Projects (Outline)
@@ -230,9 +228,7 @@ categories of types of systems: who regions of problem spaces are conducive to w
 
 
 
-
 ## Other Resources & Areas:
-
 
 #### Advanced / Real-World Scheduling
 (Internal Locus of Control https://www.economist.com/business/2026/08/27/the-quality-you-should-most-wish-for-your-children )
