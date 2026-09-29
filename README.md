@@ -4,8 +4,8 @@
 - https://github.com/lineality/project_product_and_production_links 
 
 
-# Team Projects Curricula Areas
-2026.08.21st - 9.15th
+# Team Projects Curricula
+2026.08.21st - 9.29th
 
 The goal of this 'Teams,' 'Projects/Products,' and 'Team-Projects' curriculum is to bring together existing interdisciplinary STEM materials and practices into a curriculum, flexible for various age levels and disciplines, that is broadly recognizable and can be participated in through a (macro) high-level-context of 'Teams & Projects.'
 
@@ -41,51 +41,36 @@ Correcting misconceptions and orientation-issues regarding STEM, teams, and proj
 - Context-Dependence
 
 
-# (?) Existing Materials Links
+## Existing Materials (Links)
 
 #### Project-Team Basics: 
 - 'T is for Task' / Uma: Projects & Communication, From Very Simple to Less-Simple: 
 - https://github.com/lineality/uma_productivity_collaboration_tool/blob/main/t_is_for_task.md 
 
-
 #### Concrete Exercises: 
 - Social Story Puzzles & Cookbook Puzzles
 - https://github.com/stemnetbenchmarks/social_story_and_cookbook_puzzles 
-
 
 #### Team Skills & Product-Development Skills: 
 - Soft-Skills
 - https://www.youtube.com/watch?v=1JHOY0zqNBY 
 
-
 #### Project Skills: Project Areas
 - https://github.com/lineality/project_areas_for_project_and_product_management  
-
 
 #### Inter-Team Level/Scale: 
 - Needs & Goals Evaluation of Other Teams
 - https://github.com/lineality/needs_goals_assessment_disambiguation  
 
-
 #### Dynamics, Values, Policies and Best Practice: 
 - Definition Behavior Studies
 - https://github.com/lineality/definition_behavior_studies  
 
-
 #### Coordinated Decisions:
 - https://github.com/lineality/Networked_Voting_and_Decisions_Including_One_Time_Pads  
 
-
 #### Board-Level Administration Problem-Spaces:
 - https://www.thecorporategovernanceinstitute.com/insights/podcasts/how-bad-structures-destroy-good-governance/ 
-
-
-
-### Data & Projects:
-Data Oriented Programming
-- "Designing Data Intensive Applications" by Martin Kleppmann
-https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ 
-- Bill Hall & Odin (Language)
 
 
 ### Production Data-Science
@@ -102,7 +87,6 @@ Production Data-Science Study & Project Areas:
 
 Case Study: Comparing Deterministic Rust vs. Python LLM:
 - https://github.com/lineality/schema_map_production_datascience_casestudy 
-
 
 
 ## Starting and Overall Curricular-Questions:
@@ -131,39 +115,20 @@ Case Study: Comparing Deterministic Rust vs. Python LLM:
 - Relates to use of third party dependencies or many-featured paid or free services
 
 
-
-
-### Example process item: Loop
-- Identify (Identification phase)
-- Do
-- Reflect 
-
 ### Versions of Curricula Per Level
 - Early Skills (pre-reading, more empirical)
 - Primary School / Elementary-Middle School
 - Secondary / High School
 - Higher Education Levels / College University (most-reading)
 
-#### Entrepreneurship & Startups: Overall factors to be aware of
-- Duration to expect before profitability
-- Failure before success
-
-#### Civics, Administration, and Organizations
-- History
-- Economics and Rule of Law
-- Sanctions
-
-
-# Learning-Materials & Topics:
-- 'Mini-Metro' and Scope-Scale (how scale changes problem-spaces)
-
-# Curriculum Notes
-- Explicitly including 'identification' as a layer of learning goals
-- Using a project-iteration that rewards learning from mistakes rather than a pedantic potemkin-village to hide error-feedback.
-- Cutups, communication (presentation, documentation) skills 
 
 ## Use of Projects (Teaching Methodology)
-- see links for production-projects
+- See links for production-projects
+
+### Example overall-process item: Loop
+- Identify (Identification phase)
+- Do
+- Reflect 
 
 ### One-Hour Team Projects (Outline)
 The idea behind one-hour (duration) team-projects group activities for a class would not be a focus on getting a project completed (though various 'prizes' or other incentives may be useful for achieving ~milestones). The main focus is on using lived-experience to give exposure to important aspects of the overall problem space of real-world projects, with curriculum focus on identification-level skills (an often overlooked step the comes before actively practicing more advanced skills) and a kind internal locus of control confidence about being able to actively participate.
@@ -195,10 +160,6 @@ Talk with other teams and find a team who will agree to make what you need.
 - Engagement in a project can be difficult to gauge.
 
 
-#### Scaffolding 
-While any form of this activity, whether focused on software or art projects etc., should be able to illustrate basic areas
-
-
 #### (Possible, Not Beginner Level) Readings:
 - Ashby
 - Kahneman & Tversky
@@ -207,14 +168,6 @@ While any form of this activity, whether focused on software or art projects etc
 - Uma
 - Information Theory vs. Data Science vs. Statistics
 - Data Science & Computer Science, Academic & Production
-
-
-Francis Fukuyama & Kahneman-Tversky
-### "Meritocarcy"
-- STEM: defining value in a way that is rigor-meaningful (e.g. 'significant'), useful/practical, repeatable and maintainable
-->
-categories of types of systems: who regions of problem spaces are conducive to which types of models?
-
 
 
 ### Project Development Timeline & Stages (under construction)
@@ -226,6 +179,11 @@ categories of types of systems: who regions of problem spaces are conducive to w
 - Production Development: tools, '3-builds'
 - Mode and Case Handling
 
+
+### Curriculum Notes
+- Explicitly including 'identification' as a layer of learning goals
+- Using a project-iteration that rewards learning from mistakes rather than a pedantic potemkin-village to hide error-feedback.
+- Cutups, communication (presentation, documentation) skills 
 
 
 ## Other Resources & Areas:
@@ -239,19 +197,12 @@ categories of types of systems: who regions of problem spaces are conducive to w
 #### Production Datascience Architectures: 
 - MER: Learning in Production: Languages & Computability (pending)
 - https://github.com/lineality/granmo_model_nlp_classifier_rust 
+- Production Data-Structures & Data Bases
 
 
 ## Hygiene & Data-use:
 
-##### Computer Science & Languages:
-- From P.J. Plauger to Bill Hall, & Andrew Kelly, 
-
-- Casey Muratori "Where Does Bad Code Come From?" Molly Rocket Nov 2, 2021
-https://www.youtube.com/watch?v=7YpFGkG-u1w 
-
-
-
-## Macro Maintainability & Soundness
+#### Macro Maintainability & Soundness
 - long-term/short term
 - patience
 - waiting, 'mindfulness'
@@ -265,7 +216,39 @@ https://www.youtube.com/watch?v=7YpFGkG-u1w
 - contagion, membranes, corrosion & resilience
 
 
-# Theory
+#### Computer Science & Languages:
+- From P.J. Plauger to Bill Hall, & Andrew Kelly, 
+- Casey Muratori "Where Does Bad Code Come From?" Molly Rocket Nov 2, 2021
+https://www.youtube.com/watch?v=7YpFGkG-u1w 
+
+
+### Entrepreneurship & Startups: Overall factors to be aware of
+- Duration to expect before profitability
+- Failure before success
+
+
+### Civics, Administration, and Organizations
+- History
+- Economics and Rule of Law
+- Sanctions
+
+### Data & Projects:
+Data Oriented Programming
+- "Designing Data Intensive Applications" by Martin Kleppmann
+https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ 
+- Bill Hall & Odin (Language)
+
+
+### Learning-Materials & Topics:
+- 'Mini-Metro' and Scope-Scale (how scale changes problem-spaces)
+
+
+
+## Theory
 - Automata-Games & Team-Games: Formal Coordination and Social Coordination
 
-
+#### Francis Fukuyama & Kahneman-Tversky
+- "Meritocarcy"
+- STEM: defining value in a way that is rigor-meaningful (e.g. 'significant'), useful/practical, repeatable and maintainable
+->
+categories of types of systems: who regions of problem spaces are conducive to which types of models?
