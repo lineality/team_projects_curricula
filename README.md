@@ -250,6 +250,21 @@ categories of types of systems: who regions of problem spaces are conducive to w
 https://www.youtube.com/watch?v=7YpFGkG-u1w 
 
 
+
+## Macro Maintainability & Soundness
+- long-term/short term
+- patience
+- waiting, 'mindfulness'
+- follow-through, sticktoitivness
+- listening
+- impulse-control
+- navigating blind
+- navigating non-automatic learning
+- goal-setting skills (standard project areas)
+- schedule-skills (standard project areas)
+- contagion, membranes, corrosion & resilience
+
+
 # Theory
 - Automata-Games & Team-Games: Formal Coordination and Social Coordination
 
