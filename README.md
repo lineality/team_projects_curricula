@@ -108,8 +108,9 @@ Case Study: Comparing Deterministic Rust vs. Python LLM:
 - Are there practices and policies in place to navigate Categories of Types of Systems?
 
 3. The difficulty-level of getting a given high-quality-signal question:
-- User needs and goals evaluation is persistently more difficult than expected
+- Needs and Goals Evaluation (especially regarding users) is persistently more difficult than expected
 - Broader user-interest beyond needs and goals evaluation is persistently more difficult than expected
+- "Demand-Distortion" is important to understand, where factors such as lack of education, a presence of disinformation, or "supernormal-stimulus" (E.g. Tinbergen) favor counterproductive, unsustainable, often short-term goals.
 
 4. The 'Should you roll your own in this case' question: 
 - Relates to use of third party dependencies or many-featured paid or free services
