@@ -123,34 +123,6 @@ Case Study: Comparing Deterministic Rust vs. Python LLM:
 - Higher Education Levels / College University (most-reading)
 
 
-## Use of Projects (Teaching Methodology)
-- See links for production-projects
-
-### Example overall-process item: Loop
-- Identify (Identification phase)
-- Do
-- Reflect 
-
-### One-Hour Team Projects (Outline)
-The idea behind one-hour (duration) team-projects group activities for a class would not be a focus on getting a project completed (though various 'prizes' or other incentives may be useful for achieving ~milestones). The main focus is on using lived-experience to give exposure to important aspects of the overall problem space of real-world projects, with curriculum focus on identification-level skills (an often overlooked step the comes before actively practicing more advanced skills) and a kind internal locus of control confidence about being able to actively participate.
-
-
-#### Parts & Times: Time Budget Schedule
-1. Form Groups/Teams (Can be already done)
-
-2. Pick a Team-Project-Goal (5-10 min)
-
-3. Identify 1-5 Needed Parts (5-10 min)
-
-4. "Team Marketplace" (5-10 min)
-Talk with other teams and find a team who will agree to make what you need.
-
-5. 15-30 min build
-
-6. 5-10 min delivery & feedback7
-
-7. 5-10 min (flex-times)
-
 
 ### Basic Learning Areas: Content-Map
 - Picking a goal can be error prone, especially on the first try.
@@ -253,3 +225,61 @@ https://www.oreilly.com/library/view/designing-data-intensive-applications/97814
 - STEM: defining value in a way that is rigor-meaningful (e.g. 'significant'), useful/practical, repeatable and maintainable
 ->
 categories of types of systems: who regions of problem spaces are conducive to which types of models?
+
+
+
+# Appendices on Specific Content:
+
+## 1. Use of Projects (Teaching Methodology)
+- See links for production-projects
+
+### Example overall-process item: Loop
+- Identify (Identification phase)
+- Do
+- Reflect 
+
+### One-Hour Team Projects (Outline)
+The idea behind one-hour (duration) team-projects group activities for a class would not be a focus on getting a project completed (though various 'prizes' or other incentives may be useful for achieving ~milestones). The main focus is on using lived-experience to give exposure to important aspects of the overall problem space of real-world projects, with curriculum focus on identification-level skills (an often overlooked step the comes before actively practicing more advanced skills) and a kind internal locus of control confidence about being able to actively participate.
+
+
+#### Parts & Times: Time Budget Schedule
+1. Form Groups/Teams (Can be already done)
+
+2. Pick a Team-Project-Goal (5-10 min)
+
+3. Identify 1-5 Needed Parts (5-10 min)
+
+4. "Team Marketplace" (5-10 min)
+Talk with other teams and find a team who will agree to make what you need.
+
+5. 15-30 min build
+
+6. 5-10 min delivery & feedback7
+
+7. 5-10 min (flex-times)
+
+
+## 2. Lesson 1: Terms, Language & Communication
+1. Scope and State
+2. Description and Jargon
+3. Lexicons and Glossaries
+4. Communication & Future You
+- you as one person
+- phylogeny trees
+- organizations
+
+5. Communication:
+- Underappreciated
+- taken for granted
+- assumed to be trivial
+- criticized as being non STEM ('soft')
+- actively obstructed
+- opposed and fought
+
+
+6. Time Capsule Activity
+- 1. Describe a Project (e.g. as a team, or individually)
+- 2. "Future you" (you, another team, after N-time units) tries to understand the description (and perhaps follow it) for what that was. (e.g. then have the team show what they made to the person (who may or may not remember their original idea)
+[All this as a way to illustrate how project-scope and communication over time are important and subject to 'unexpected' drift and 'behaviors' that should be 'expected.)
+
+
