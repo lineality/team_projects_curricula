@@ -306,16 +306,16 @@ Part 1:
 
 Part 2:
 
-#. Project Areas
-#. Needs & Goals
-#. Basic Schedules & Realistic Schedules
-#. Process, Best-Practice, Non-Automatic-Learning & Demand-Distortion
-#. Risks & Dangers: Churn, Creep, Tech-Debt, Bricks, Abandonware
-#. Terms & Lexicons
-#. Fads, Trends, & Hype
-#. Packages & Modules
-#. Package Managers
-#. Compiles vs. Interpreted
-#. Garbage Collection
+1. Project Areas
+2. Needs & Goals
+3. Basic Schedules & Realistic Schedules
+4. Process, Best-Practice, Non-Automatic-Learning & Demand-Distortion
+5. Risks & Dangers: Churn, Creep, Tech-Debt, Bricks, Abandonware
+6. Terms & Lexicons
+7. Fads, Trends, & Hype
+8. Packages & Modules
+9. Package Managers
+10. Compilers vs. Interpreted
+11. Garbage Collection
 
 
