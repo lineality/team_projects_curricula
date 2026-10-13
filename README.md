@@ -5,7 +5,7 @@
 
 
 # Team Projects Curricula
-2026.08.21st - 9.29th
+2026.08.21st - 10.11th
 
 The goal of this 'Teams,' 'Projects/Products,' and 'Team-Projects' curriculum is to bring together existing interdisciplinary STEM materials and practices into a curriculum, flexible for various age levels and disciplines, that is broadly recognizable and can be participated in through a (macro) high-level-context of 'Teams & Projects.'
 
@@ -281,5 +281,41 @@ Talk with other teams and find a team who will agree to make what you need.
 - 1. Describe a Project (e.g. as a team, or individually)
 - 2. "Future you" (you, another team, after N-time units) tries to understand the description (and perhaps follow it) for what that was. (e.g. then have the team show what they made to the person (who may or may not remember their original idea)
 [All this as a way to illustrate how project-scope and communication over time are important and subject to 'unexpected' drift and 'behaviors' that should be 'expected.)
+
+
+
+### Basic Tools Lessons
+
+Part 1:
+
+1. Device (Hardware)
+2. Terminal
+3. (File) Editor
+4. File Managers
+5. Compiler (Software: C Rust Zig Odin)
+
+6. Shell
+7. Network
+8. Git (Github, Codeberg)
+9. Messenger
+10. Task-Board
+
+11. Debugger
+12. Learning-Resources (Books, Tutorials, Courses, 
+
+
+Part 2:
+
+#. Project Areas
+#. Needs & Goals
+#. Basic Schedules & Realistic Schedules
+#. Process, Best-Practice, Non-Automatic-Learning & Demand-Distortion
+#. Risks & Dangers: Churn, Creep, Tech-Debt, Bricks, Abandonware
+#. Terms & Lexicons
+#. Fads, Trends, & Hype
+#. Packages & Modules
+#. Package Managers
+#. Compiles vs. Interpreted
+#. Garbage Collection
 
 
