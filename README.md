@@ -286,7 +286,7 @@ Talk with other teams and find a team who will agree to make what you need.
 
 ### Basic Tools Lessons
 
-Part 1:
+###### Part 1:
 
 1. Device (Hardware)
 2. Terminal
@@ -304,7 +304,7 @@ Part 1:
 12. Learning-Resources (Books, Tutorials, Courses, 
 
 
-Part 2:
+##### Part 2:
 
 1. Project Areas
 2. Needs & Goals
