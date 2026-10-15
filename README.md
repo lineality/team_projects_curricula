@@ -286,26 +286,27 @@ Talk with other teams and find a team who will agree to make what you need.
 
 ### Basic Tools Lessons
 
-###### Part 1:
-
+#### Part 1:
+##### (Level 1)
 1. Device (Hardware)
 2. Terminal
 3. (File) Editor
 4. File Managers
 5. Compiler (Software: C Rust Zig Odin)
 
+##### (Level 2)
 6. Shell
 7. Network
 8. Git (Github, Codeberg)
 9. Messenger
 10. Task-Board
 
+##### (Level 3)
 11. Debugger
 12. Learning-Resources (Books, Tutorials, Courses, 
 
 
 ##### Part 2:
-
 1. Project Areas
 2. Needs & Goals
 3. Basic Schedules & Realistic Schedules
@@ -315,7 +316,10 @@ Talk with other teams and find a team who will agree to make what you need.
 7. Fads, Trends, & Hype
 8. Packages & Modules
 9. Package Managers
-10. Compilers vs. Interpreted
-11. Garbage Collection
+10. Compiled vs. Interpreted
+11. Garbage Collection (GC)
+12. Internal Locus of Control
+13. Project-Object Permanence & Theory-of-Mind (Sally Anne)
+14. Reification Junkfood, Stressful Lower-Level Mechanics, & Project-Area Problem-Space Equilibria & Psychology
 
 
