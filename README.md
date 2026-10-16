@@ -5,7 +5,7 @@
 
 
 # Team Projects Curricula
-2026.08.21st - 10.11th
+2026.08.21st - 2026.10.16th
 
 The goal of this 'Teams,' 'Projects/Products,' and 'Team-Projects' curriculum is to bring together existing interdisciplinary STEM materials and practices into a curriculum, flexible for various age levels and disciplines, that is broadly recognizable and can be participated in through a (macro) high-level-context of 'Teams & Projects.'
 
@@ -173,7 +173,7 @@ Case Study: Comparing Deterministic Rust vs. Python LLM:
 - Production Data-Structures & Data Bases
 
 
-## Hygiene & Data-use:
+## Hygiene & Data-Use:
 
 #### Macro Maintainability & Soundness
 - long-term/short term
@@ -188,31 +188,27 @@ Case Study: Comparing Deterministic Rust vs. Python LLM:
 - schedule-skills (standard project areas)
 - contagion, membranes, corrosion & resilience
 
-
 #### Computer Science & Languages:
 - From P.J. Plauger to Bill Hall, & Andrew Kelly, 
 - Casey Muratori "Where Does Bad Code Come From?" Molly Rocket Nov 2, 2021
 https://www.youtube.com/watch?v=7YpFGkG-u1w 
 
-
-### Entrepreneurship & Startups: Overall factors to be aware of
+#### Entrepreneurship & Startups: Overall factors to be aware of
 - Duration to expect before profitability
 - Failure before success
 
-
-### Civics, Administration, and Organizations
+#### Civics, Administration, and Organizations
 - History
 - Economics and Rule of Law
 - Sanctions
 
-### Data & Projects:
+#### Data & Projects:
 Data Oriented Programming
 - "Designing Data Intensive Applications" by Martin Kleppmann
 https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/ 
 - Bill Hall & Odin (Language)
 
-
-### Learning-Materials & Topics:
+#### Learning-Materials & Topics:
 - 'Mini-Metro' and Scope-Scale (how scale changes problem-spaces)
 
 
@@ -228,7 +224,7 @@ categories of types of systems: who regions of problem spaces are conducive to w
 
 
 
-# Appendices on Specific Content:
+# Appendices on Specific Content
 
 ## 1. Use of Projects (Teaching Methodology)
 - See links for production-projects
