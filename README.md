@@ -123,7 +123,6 @@ Case Study: Comparing Deterministic Rust vs. Python LLM:
 - Higher Education Levels / College University (most-reading)
 
 
-
 ### Basic Learning Areas: Content-Map
 - Picking a goal can be error prone, especially on the first try.
 - MVP design is important and not automatic.
@@ -289,27 +288,33 @@ Talk with other teams and find a team who will agree to make what you need.
 3. (File) Editor
 4. File Managers
 5. Compiler (Software: C Rust Zig Odin)
+6. Executable 'Binary' Program File
+7. Interpreter (Python, Shells (Bash (linux), Ash (linux), csh (C Shell, old), zsh (Z Shell, MacOS), etc.) 
+8. Script (file)
+9. Shell, C: UNIX, LINUX, GNU, POSIX
 
 ##### (Level 2)
-6. Shell
-7. Network
-8. Git (Github, Codeberg)
-9. Messenger
-10. Task-Board
+10. Network
+11. Git (Github, Codeberg, Gitlab)
+12. Messenger
+13. Task-Board
+14. Comments & Documentation
 
 ##### (Level 3)
-11. Debugger
-12. Learning-Resources (Books, Tutorials, Courses, 
+15. Modes, Errors, Cases, Debugging & Tests
+16. Debugger
+17. Learning-Resources (Books, Tutorials, Courses, People, Video, etc.)
 
 
 ##### Part 2:
-1. Project Areas
-2. Needs & Goals
-3. Basic Schedules & Realistic Schedules
-4. Process, Best-Practice, Non-Automatic-Learning & Demand-Distortion
-5. Risks & Dangers: Churn, Creep, Tech-Debt, Bricks, Abandonware
-6. Terms & Lexicons
-7. Fads, Trends, & Hype
+1. Fads, Trends, & Hype
+2. Project Areas (Six Common Areas)
+3. Needs & Goals (Assessment, Evaluation, Mapping)
+4. Basic Schedules & Realistic Schedules
+5. Process, Best-Practice, Non-Automatic-Learning & Demand-Distortion
+6. Risks & Dangers: Churn, Creep, Tech-Debt, Bricks, Abandonware
+7. Terms & Lexicons
+8. Types of Contexts: Single Use, Informal, Academic, Internal, Production-Release
 8. Packages & Modules
 9. Package Managers
 10. Compiled vs. Interpreted
@@ -317,5 +322,9 @@ Talk with other teams and find a team who will agree to make what you need.
 12. Internal Locus of Control
 13. Project-Object Permanence & Theory-of-Mind (Sally Anne)
 14. Reification Junkfood, Stressful Lower-Level Mechanics, & Project-Area Problem-Space Equilibria & Psychology
+15. Data, Databases, Data-Science, Operations Research, Systems-Programming
 
 
+##### Part 3:
+1. Integrating STEM: Admin, Biz, Sci, Coding, Data, Ethics, Life, Eco, Economics
+2. Doing Projects
